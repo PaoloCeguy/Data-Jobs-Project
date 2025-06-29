@@ -18,4 +18,4 @@ where
     job_location = 'Delaware'
 group by skills
 order by demand_count desc
-limit 10
+limit 5

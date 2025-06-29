@@ -53,9 +53,6 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](.vscode\assests\job_2023.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
-
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 ```sql
@@ -92,8 +89,6 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Tableau** is also highly sought after, with a bold count of 6.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](sadw\skills.png)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
 
@@ -236,4 +231,4 @@ From the analysis, several general insights emerged:
 5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
 ### Closing Thoughts
-
+This project helped me strengthen my SQL skills and gain valuable insights into the data analyst job market. The analysis offers guidance on which skills to prioritize for career growth and job searching. By focusing on high-demand, high-paying skills, aspiring data analysts can stand out in a competitive field. Overall, the project underscores the importance of continuous learning and staying up to date with evolving trends in data analytics.
